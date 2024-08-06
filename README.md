@@ -8,7 +8,7 @@ This procedure of allocating data points to clusters and recalculating the centr
 # Explaination
 to create a program using Python that does the following:
 1. Asks the user for the number of clusters. This is the parameter k that will be used for k-means.
- 
+
 2. Reads the input file (prog2-input-data.txt) and stores the points into a list
  
 4. Applies the k-means algorithm to find the cluster for each point.
